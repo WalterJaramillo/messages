@@ -1,3 +1,3 @@
-# Guesto
+# Messages 
 
-A guestbook app
+A Messagestbook app
