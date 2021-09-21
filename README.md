@@ -1,3 +1,3 @@
 # Messages 
 
-A Messagestbook app
+A Messagesbook app
